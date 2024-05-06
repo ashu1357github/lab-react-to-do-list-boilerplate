@@ -48,7 +48,6 @@ export default class App extends Component {
             </div>
 
             <List data={this.state.data} handleDelete={this.handleDelete} handleUpdate={this.handleUpdate}/>
-            
 
             </div>
           </>
